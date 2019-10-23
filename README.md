@@ -1,2 +1,1 @@
-# first
-an easy project
+this is a first file to me.
